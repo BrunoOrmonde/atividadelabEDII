@@ -1,17 +1,3 @@
-/*
-
-Para execurar o programa utilize o comando:
-
-    $~ gcc tree.c main.c
-
-Apos gerar o executável o programa pode ser
-iniciado com o comando:
-
-    $~ ./a.out
-
-
-*/
-
 #include <stdio.h>
 #include "tree.h"
 
