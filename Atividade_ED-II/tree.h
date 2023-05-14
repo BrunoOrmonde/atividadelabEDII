@@ -1,17 +1,6 @@
 #ifndef TREE_H
 #define TREE_H
 
-/*
-Estrutura Arvore AVL:
--Comtem um bit a mais
-para fator de balanceamento,
-se o valor for -1, 0 ou 1 a
-arvore esta balancedada,
-caso contrario serao
-necessaios alguns
-procedimentos de "rotação"
-para que a arvore fique balanceada.
-*/
 
 struct arvore
 {
